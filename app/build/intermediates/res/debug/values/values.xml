@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/hp/StudioProjects/Yigita/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/hp/StudioProjects/Yigita/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">YİĞİT GAZETELER</string>
+    <string name="bursa">BURSADA BUGÜN</string>
+    <string name="haber">HABERTÜRK</string>
+    <string name="helloworld">HOŞ GELDİNİZ</string>
+    <string name="hürriyet">HÜRRİYET</string>
+    <string name="milliyet">MİLLİYET</string>
+    <string name="mynet">MYNET</string>
+    <string name="shift">SHIFTDELETE</string>
+    <string name="sözcü">SÖZCÜ</string>
+    <!-- From: file:/C:/Users/hp/StudioProjects/Yigita/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

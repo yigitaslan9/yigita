@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="mynet">MYNET</string>
+<string name="app_name">YİĞİT GAZETELER</string>
+<string name="action_settings">Settings</string>
+<string name="helloworld">HOŞ GELDİNİZ</string>
+<string name="bursa">BURSADA BUGÜN</string>
+<string name="hürriyet">HÜRRİYET</string>
+<string name="milliyet">MİLLİYET</string>
+<string name="haber">HABERTÜRK</string>
+<string name="sözcü">SÖZCÜ</string>
+<string name="shift">SHIFTDELETE</string>
+
+
+</resources>
